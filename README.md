@@ -27,7 +27,6 @@ This notebook processes a heart disease dataset, performs exploratory data analy
 - Correlation Heatmap  
 - Feature Distribution Plots
   
-
 ## 📬 Contact
 
 <p>
