@@ -25,7 +25,8 @@ This notebook processes a heart disease dataset, performs exploratory data analy
 - Accuracy Score  
 - Confusion Matrix  
 - Correlation Heatmap  
-- Feature Distribution Plots  
+- Feature Distribution Plots
+  
 
 ## 📬 Contact
 
