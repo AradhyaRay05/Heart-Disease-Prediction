@@ -16,6 +16,14 @@ This project demonstrates the complete ML pipeline from **data preprocessing** t
 
 ---
 
+### 🚀 Future Enhancements  
+- Deploy on **cloud platforms** like Heroku or Streamlit Cloud  
+- Add visualization of prediction probabilities  
+- Expand dataset for improved generalization  
+- Implement explainable AI techniques for better interpretability
+  
+---
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
