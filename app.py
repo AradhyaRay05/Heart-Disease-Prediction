@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 import keras
 
-model = tf.keras.models.load_model(r'D:\Education\Coding\Machine Learning\Machine Learning Projects\Heart-Disease-Prediction\model.keras')
+model = tf.keras.models.load_model('model.keras')
 scaler = joblib.load(r'D:\Education\Coding\Machine Learning\Machine Learning Projects\Heart-Disease-Prediction\scaler.pkl')
 
 st.title('Heart Disease Prediction')
