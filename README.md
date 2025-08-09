@@ -9,6 +9,12 @@ The project aims to support preventive healthcare and reduce diagnostic delays.
 
 ---
 
+## 📖 Overview  
+HeartGuardAI uses a trained deep learning model to predict whether a patient is likely to have heart disease.  
+It processes key health parameters such as age, cholesterol levels, and blood pressure, then delivers predictions through an easy-to-use **Streamlit web interface**.  
+This project demonstrates the complete ML pipeline from **data preprocessing** to **deployment**.
+
+---
 
 
 ## 📬 Contact
