@@ -16,7 +16,14 @@ This project demonstrates the complete ML pipeline from **data preprocessing** t
 
 ---
 
-### 🚀 Future Enhancements  
+## ✨ Features  
+- Predicts likelihood of heart disease using health parameters  
+- Simple and interactive web interface  
+- Fast, lightweight, and easy to deploy locally  
+
+---
+
+## 🚀 Future Enhancements  
 - Deploy on **cloud platforms** like Heroku or Streamlit Cloud  
 - Add visualization of prediction probabilities  
 - Expand dataset for improved generalization  
