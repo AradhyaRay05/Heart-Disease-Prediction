@@ -1,4 +1,4 @@
-# HeartGuardAI - AI Powered heart disease predictor
+# HeartGuardAI - AI Powered Heart Disease Predictor
 
 ---
   
