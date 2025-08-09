@@ -1,7 +1,16 @@
 # HeartGuardAI - AI Powered Heart Disease Predictor
 
 ---
-  
+
+## 📌 Project Goal  
+HeartGuardAI is designed to assist in the early detection of heart disease by leveraging machine learning models.  
+The goal is to provide a simple, accurate, and accessible tool for predicting the likelihood of heart disease based on patient data.  
+The project aims to support preventive healthcare and reduce diagnostic delays.
+
+---
+
+
+
 ## 📬 Contact
 
 <p>
