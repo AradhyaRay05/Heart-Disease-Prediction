@@ -80,12 +80,12 @@ HeartGuardAI/
 │   └── heart.csv                        # Main dataset used for training the model
 ├── .gitignore                           # Prevents Git from tracking unnecessary files
 ├── Heart_Disease_Prediction.ipynb       # Jupyter notebook for model training & evaluation
-├── LICENSE # License file
-├── README.md # Project documentation
-├── app.py # Streamlit app for deployment
-├── model.keras # Saved trained model
-├── requirements.txt # Python dependencies
-└── scaler.pkl # Saved StandardScaler for preprocessing
+├── LICENSE                              # Allows reuse, with attribution, no warranty
+├── README.md                            # Project documentation
+├── app.py                               # Streamlit app for deployment
+├── model.keras                          # Saved trained model
+├── requirements.txt                     # Python dependencies
+└── scaler.pkl                           # Saved StandardScaler for preprocessing
 
 ```
 
