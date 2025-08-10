@@ -91,19 +91,20 @@ HeartGuardAI/
 
 ---
 
-## ✨ Features  
-- Predicts likelihood of heart disease using health parameters  
-- Simple and interactive web interface  
-- Fast, lightweight, and easy to deploy locally  
+### ✨ Features  
+- Predicts heart disease likelihood from 13 health parameters.  
+- Real-time prediction via a simple web interface.  
+- Fast and lightweight for local execution.  
+- Visualization of dataset patterns and model performance.   
 
 ---
 
-## 🚀 Future Enhancements  
-- Deploy on **cloud platforms** like Heroku or Streamlit Cloud  
-- Add visualization of prediction probabilities  
-- Expand dataset for improved generalization  
-- Implement explainable AI techniques for better interpretability
-  
+### ✨  Future Enhancements
+- Predicts heart disease likelihood from 13 health parameters.  
+- Real-time prediction via a simple web interface.  
+- Fast and lightweight for local execution.  
+- Visualization of dataset patterns and model performance.
+
 ---
 
 ## 📜 License
