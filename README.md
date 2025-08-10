@@ -58,6 +58,26 @@ Tested multiple classification models:
 
 ---
 
+## 🛠 Tech Stack  
+
+**Programming Language:**  
+- Python  
+
+**Libraries & Frameworks:**  
+- **Data Preprocessing & Analysis:** pandas, numpy, scikit-learn  
+- **Visualization:** matplotlib, seaborn  
+- **Model Building:** tensorflow, keras  
+- **Deployment:** streamlit  
+- **Model Persistence:** joblib  
+
+---
+
+## 📂 Project Structure  
+
+
+
+---
+
 ## ✨ Features  
 - Predicts likelihood of heart disease using health parameters  
 - Simple and interactive web interface  
