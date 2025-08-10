@@ -74,7 +74,20 @@ Tested multiple classification models:
 
 ## 📂 Project Structure  
 
+```
+HeartGuardAI/
+├── Dataset/                             # Folder containing the dataset
+│   └── Bitcoin_Dataset.csv              # Main dataset used for training the model
+├── .gitignore # Git ignore file
+├── Heart_Disease_Prediction.ipynb # Jupyter notebook for model training & evaluation
+├── LICENSE # License file
+├── README.md # Project documentation
+├── app.py # Streamlit app for deployment
+├── model.keras # Saved trained model
+├── requirements.txt # Python dependencies
+└── scaler.pkl # Saved StandardScaler for preprocessing
 
+```
 
 ---
 
