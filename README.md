@@ -30,17 +30,16 @@ Tested multiple classification models:
 - Logistic Regression  
 - Random Forest Classifier  
 - Support Vector Machine (SVM)  
-- Decision Tree Classifier  
+- Decision Tree Classifier
+- K-Nearest Neighbors (KNN)
+- Gradient Boosting Classifier
 - **Deep Neural Network (✅ Best Performer)**  
 
 **Final Model:**  
-- Framework: **TensorFlow & Keras**  
 - Architecture: 3 Dense layers with ReLU activation and Dropout layers to prevent overfitting  
 - Output Layer: Sigmoid activation for binary classification  
 - Optimizer: Adam  
 - Loss: Binary Crossentropy  
-- Epochs: 50  
-- Batch Size: 32  
 - Saved using `.keras` format for deployment and `joblib` for the scaler.  
 
 ### 3️⃣ Evaluation Metrics  
