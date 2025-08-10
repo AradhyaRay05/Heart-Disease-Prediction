@@ -77,7 +77,7 @@ Tested multiple classification models:
 ```
 HeartGuardAI/
 ├── Dataset/                             # Folder containing the dataset
-│   └── Bitcoin_Dataset.csv              # Main dataset used for training the model
+│   └── heart.csv              # Main dataset used for training the model
 ├── .gitignore # Git ignore file
 ├── Heart_Disease_Prediction.ipynb # Jupyter notebook for model training & evaluation
 ├── LICENSE # License file
