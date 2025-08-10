@@ -16,6 +16,49 @@ This project demonstrates the complete ML pipeline from **data preprocessing** t
 
 ---
 
+## 🔄 Project Workflow  
+
+### 1️⃣ Data Preprocessing  
+- Loaded heart disease dataset from **UCI Machine Learning Repository**.  
+- Checked for missing/null values and handled inconsistencies.  
+- Encoded categorical variables into numerical format.  
+- Normalized and scaled features using **StandardScaler** from `scikit-learn`.  
+- Split dataset into **80% training** and **20% testing** sets for model evaluation.  
+
+### 2️⃣ Model Building  
+Tested multiple classification models:  
+- Logistic Regression  
+- Random Forest Classifier  
+- Support Vector Machine (SVM)  
+- Decision Tree Classifier  
+- **Deep Neural Network (✅ Best Performer)**  
+
+**Final Model:**  
+- Framework: **TensorFlow & Keras**  
+- Architecture: 3 Dense layers with ReLU activation and Dropout layers to prevent overfitting  
+- Output Layer: Sigmoid activation for binary classification  
+- Optimizer: Adam  
+- Loss: Binary Crossentropy  
+- Epochs: 50  
+- Batch Size: 32  
+- Saved using `.keras` format for deployment and `joblib` for the scaler.  
+
+### 3️⃣ Evaluation Metrics  
+- **Accuracy:** 0.86 on the test set  
+- **Precision:** 0.84  
+- **Recall:** 0.87  
+- **F1-Score:** 0.85  
+- Confusion matrix visualized for better understanding of model performance.  
+
+### 4️⃣ Deployment  
+- Built an interactive **Streamlit** web app for local deployment.  
+- User inputs health data through sliders and dropdowns.  
+- Data is scaled using the saved `StandardScaler` before prediction.  
+- Model predicts and displays results instantly with a clear **"Heart Disease Detected"** or **"No Heart Disease Detected"** message.  
+- Ready to be deployed on platforms like **Streamlit Cloud** or **Heroku** for global access.  
+
+---
+
 ## ✨ Features  
 - Predicts likelihood of heart disease using health parameters  
 - Simple and interactive web interface  
