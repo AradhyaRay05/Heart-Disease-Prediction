@@ -88,6 +88,7 @@ HeartGuardAI/
 └── scaler.pkl                           # Saved StandardScaler for preprocessing
 
 ```
+
 ---
 
 ### ✨ Features  
